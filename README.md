@@ -2,11 +2,6 @@
 
 #### I'm a Full-Stack Developer working in Banjarmasin, Indonesia.
 
-##### NOW
-
-- ✨ Crafted last [Laracon Online](https://laracon.net) website;
-- 🇵🇹 Planing the "Tuga-Co-Op";
-- 🍑 What about this?
 
 ##### BIO
 
@@ -15,7 +10,7 @@
 - 🌍 I'm mostly active within the **Laravel & Codeigniter Community **
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **branding**, **laravel**, **Codeigniter**, **development**, **design thinking**
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/eddy_adha_s)
+- 📫 Reach me: [twitter.com/eddy_adha_s](https://twitter.com/eddy_adha_s)
 - ⚡️ Fun fact: I'm a huge fan of Chalsea F.C 😎💙
 
 ### Tools:

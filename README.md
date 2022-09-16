@@ -1,5 +1,22 @@
 # Hi there 👋 , I'm Eddy!
-Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, PHP, Python.  
+
+#### I'm a Full-Stack Developer working in Banjarmasin, Indonesia.
+
+##### NOW
+
+- ✨ Crafted last [Laracon Online](https://laracon.net) website;
+- 🇵🇹 Planing the "Tuga-Co-Op";
+- 🍑 What about this?
+
+##### BIO
+
+- 🏢 I'm currently working at **PT. Cakrawala Putra Bersama**
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- 🌍 I'm mostly active within the **Laravel & Codeigniter Community **
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **design**, **branding**, **laravel**, **Codeigniter**, **development**, **design thinking**
+- 📫 Reach me: [twitter.com/caneco](https://twitter.com/eddy_adha_s)
+- ⚡️ Fun fact: I'm a huge fan of Chalsea F.C 😎💙
 
 ### Tools:
 <p>
@@ -8,38 +25,11 @@ Currently working with Robotic Process Automation, but I love learn new thing in
     <img src="https://gpvc.arturio.dev/bagusfe" />
 </p>
 
-### Stats:
-<details>
- <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on RPA </br>
-    - 🌱 I’m currently learning Python,SwiftUI and UIKit </br>
-    - 👯 I’m looking to collaborate on Automation Project, Mobile Apps. </br>
-    - 🤔 I’m looking for help with master of programming. hehe </br>
-    - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:eddyyucca@gmail.com">Email me!</a>  </br>
-    - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: ... </br>
-</details>
 
 ### Let's connect!
 <p>
     <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://eddyyucca.com-green?" /></a>
-    <a href="https://linkedin.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://tw.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/@eddy_adha_s-30302f?style=flat&logo=twitter" /></a>
     <a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </p>
 
-<!--
-**bagusfe/bagusfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

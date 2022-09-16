@@ -23,7 +23,7 @@
 
 ### Let's connect!
 <p>
-    <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://eddyyucca.com-green?" /></a>
+  <img src="https://img.shields.io/badge/Website-https://eddyyucca.com-green?" />
     <a href="https://tw.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/@eddy_adha_s-30302f?style=flat&logo=twitter" /></a>
     <a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </p>

@@ -5,7 +5,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **PT. Cakrawala Putra Bersama**
+- 🏢 I'm currently working at **PT. BUMA - Bukit Makmur Mandiri Utama**
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 - 🌍 I'm mostly active within the **Laravel & Codeigniter Community **
 - 🌱 Learning all about **Open Source**

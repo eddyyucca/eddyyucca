@@ -8,7 +8,6 @@ An experienced Web Programmer with expertise in web application development and 
 systems. Offers skills in utilizing various technologies and frameworks, backed by a diverse
 background in multiple industries. 
 
-- 🏢 I'm currently working at **PT. BUMA - Bukit Makmur Mandiri Utama**
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 - 🌍 I'm mostly active within the **Laravel & Codeigniter Community **
 - 🌱 Learning all about **Open Source**

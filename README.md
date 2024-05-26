@@ -59,4 +59,4 @@ background in multiple industries.
     <a href="https://twitter.com/eddy_adha_s" target="blank"><img src="https://img.shields.io/badge/@eddy_adha_s-30302f?style=flat&logo=twitter" /></a>
 </p>
 
-[![linkedin](https://img.shields.io/badge/Linkedin-0af?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/ednei-almeida-59724b20a/)
+[![linkedin](https://img.shields.io/badge/Linkedin-0af?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/eddyyucca/)

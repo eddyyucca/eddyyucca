@@ -24,8 +24,9 @@ A passionate Full Stack Developer from Banjarmasin, Indonesia, with extensive ex
 - 🎯 Focused on creating efficient IT solutions for mining operations
 - 📫 Contact: **eddyyucca@gmail.com**
 
+<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github.com/eddyyucca/eddyyucca/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eddyyucca&theme=tokyo-night" alt="Contribution Graph" />
 </p>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack
@@ -67,16 +68,9 @@ A passionate Full Stack Developer from Banjarmasin, Indonesia, with extensive ex
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Key Projects
 
+<!-- Tech Animation -->
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="#">
-          <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" align="left"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="tech animation">
 </div>
 
 ### 🏭 Mining Industry Solutions

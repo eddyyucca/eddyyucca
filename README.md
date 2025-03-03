@@ -1,155 +1,178 @@
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Eddy Adha Saputra
+# 🚀 TradingMetrics-AI
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2C974B&background=FF000000&center=true&vCenter=true&width=435&lines=Fullstack+Developer+%F0%9F%92%BB;Mobile+Developer+%F0%9F%93%B1;IT+Operations+Specialist+%F0%9F%94%A7;Scrum+Master+%F0%9F%8F%83" alt="Typing SVG" />
-  
-  <br>
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=eddyyucca&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-  
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</div>
+> Developed by Eddy Adha Saputra
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
+Alat analisis teknikal untuk trading crypto dengan visualisasi berwarna, rekomendasi manajemen risiko, dan fitur live monitoring.
 
-A passionate Full Stack Developer from Banjarmasin, Indonesia, with extensive experience in building innovative solutions across Web, Mobile, and Desktop platforms. Currently serving as IT Operation Foreman at PT. Bukit Makmur Mandiri Utama, where I drive digital transformation through agile methodologies and innovative technology solutions.
+[![GitHub](https://img.shields.io/badge/GitHub-TradingMetrics--AI-black?style=flat&logo=github)](https://github.com/eddyyucca/TradingMetrics-AI)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat&logo=python)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/eddyyucca)
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+## ✨ Fitur
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Quick Facts
+- 📊 Analisis multi-indikator (RSI, MACD, Bollinger Bands, dll)
+- 💹 Support untuk 20+ cryptocurrency populer (BTC, ETH, BNB, dll)
+- 🎯 Rekomendasi entry point dan exit levels
+- ⚠️ Manajemen risiko dengan multiple stop loss
+- 📈 Take profit berdasarkan volatilitas
+- 🎨 Output berwarna di terminal
+- 🔄 **NEW:** Mode live monitoring untuk pantau beberapa aset sekaligus
+- 📱 **NEW:** Tampilan tabel keputusan trading real-time
+- ⏱️ **NEW:** Interval refresh yang dapat disesuaikan
 
-- 🔭 Currently working as **IT Operation Foreman & Scrum Master**
-- 🌱 Recently completed **Mobile Flutter IDN.ID Certification (2024)**
-- 💡 Expertise in **PHP Frameworks (Laravel, CodeIgniter) and Flutter**
-- 🎯 Focused on creating efficient IT solutions for mining operations
-- 📫 Contact: **eddyyucca@gmail.com**
+## 🗂 Struktur Kode
 
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eddyyucca&theme=tokyo-night" alt="Contribution Graph" />
-</p>
+```
+TradingMetrics-AI/
+│
+├── main.py              # Program utama dengan analisis single crypto
+├── main2.py             # Program baru dengan fitur live monitoring
+├── analysis.py          # Logika analisis teknikal
+├── decision.py          # Sistem pengambilan keputusan
+├── requirements.txt     # Dependencies
+└── README.md            # Dokumentasi
+```
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack
+### Penjelasan File
 
-### Languages & Frameworks
-<p align="left">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" />
-<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="codeigniter" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-</p>
+- `main.py`: User interface dan logika utama program original
+- `main2.py`: **NEW!** Versi baru dengan fitur live monitoring dan tabel keputusan
+- `analysis.py`: Fungsi-fungsi analisis teknikal
+- `decision.py`: Algoritma keputusan trading
+- `tradingmetrics_config.json`: File konfigurasi untuk menyimpan aset yang dipantau
 
-### Backend & Databases
-<p align="left">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
-</p>
+## 🛠 Teknologi
 
-### DevOps & Tools
-<p align="left">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="powerbi" />
-<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="vmware" />
-<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="proxmox" />
-</p>
+- Python 3.8+
+- Pandas untuk analisis data
+- PyGecko API untuk data market
+- Tabulate untuk tampilan tabel
+- Threading untuk monitoring live
+- Colorama & Termcolor untuk visualisasi
 
-### Design Tools
-<p align="left">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="photoshop" />
-<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="illustrator" />
-</p>
+## 📦 Instalasi
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Key Projects
+1. Pastikan Python 3.8+ terinstall
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="#">
-          <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" align="left"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+```bash
+python --version
+```
 
-### 🏭 Mining Industry Solutions
-- **SafetyAlertPro**: Automated safety monitoring and permit management system
-- **B-Mine App**: Digital mining permit management with E-Simper integration
-- **EcoWater Insight Pro**: Real-time water quality monitoring platform
-- **URCI Road Quality Calculator**: Mining road quality assessment tool
+2. Clone repository
 
-### 🏥 Healthcare Solutions
-- **Hospital Queue System**: Integrated with SIMRS Khanza
-- **Hospital Information System**: Comprehensive healthcare management solution
+```bash
+git clone https://github.com/eddyyucca/TradingMetrics-AI.git
+cd TradingMetrics-AI
+```
 
-### 💼 Enterprise Applications
-- **Logistics & Plant Management System**: Inventory and asset tracking
-- **Bank Indonesia Internal Application**: Custom backend solution
+3. Install dependencies
 
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="25"> GitHub Stats
+```bash
+pip install -r requirements.txt
+```
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eddyyucca&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddyyucca&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+## 🚀 Cara Penggunaan
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eddyyucca&theme=tokyonight" alt="GitHub Streak" />
-</div>
+### Versi Original
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eddyyucca&theme=tokyonight" />
-</div>
+```bash
+python main.py
+```
 
-## 🎓 Recent Certifications
-<div align="center">
-  <table>
-    <tr>
-      <td><b>Mobile Flutter IDN.ID</b></td>
-      <td><b>2024</b></td>
-    </tr>
-    <tr>
-      <td>ISO 9001 Internal Auditing Certificate</td>
-      <td>2023</td>
-    </tr>
-    <tr>
-      <td>Implementation of 5S for Productivity Improvement</td>
-      <td>2023</td>
-    </tr>
-    <tr>
-      <td>MikroTik MTCNA</td>
-      <td>2021</td>
-    </tr>
-    <tr>
-      <td>BNSP Database Design & Software Development</td>
-      <td>2019-2021</td>
-    </tr>
-  </table>
-</div>
+### Versi Baru dengan Live Monitoring
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="50"> Connect with Me
+```bash
+python main2.py
+```
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/eddyyucca">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="https://github.com/eddyyucca">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-  <a href="mailto:eddyyucca@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
-</p>
+### Menu Utama (Versi Baru)
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+Pilih opsi yang tersedia:
+
+1. **Analisis Single Crypto** - Analisis mendalam untuk satu aset
+2. **Mode Live Monitoring** - Pantau beberapa aset secara real-time
+3. **Kelola Aset yang Dipantau** - Tambah/hapus aset untuk monitoring
+0. **Keluar** - Keluar dari program
+
+### Analisis Single Crypto
+
+- Pilih dari 20 cryptocurrency populer
+- Pilih timeframe (15m, 30m, 1h, 4h)
+- Lihat analisis detail dan keputusan trading
+- Opsi untuk menambahkan ke daftar pantauan live
+
+### Mode Live Monitoring
+
+- Pantau beberapa aset secara bersamaan
+- Tabel keputusan trading yang update secara otomatis
+- Diurutkan berdasarkan tingkat keyakinan tertinggi
+- Refresh otomatis dengan interval yang dapat disesuaikan
+
+### Kelola Aset yang Dipantau
+
+- Tambah aset baru untuk dipantau
+- Hapus aset dari daftar pantauan
+- Atur interval refresh data (minimal 30 detik)
+
+## 📊 Contoh Output Live Monitoring
+
+```
+=== LIVE TRADING DECISIONS ===
+Last Update: 2025-03-04 01:10:25
++------------+------------+------------+------------+------------+------------+-------------------+
+| Coin       | Harga      | Aksi       | Keyakinan  | Timeframe  | Volatilitas| Waktu Update     |
++============+============+============+============+============+============+===================+
+| BTC/USDT   | $65,890.12 | STRONG_BUY | 95.7%      | 1h         | 2.31%      | 01:10:22         |
++------------+------------+------------+------------+------------+------------+-------------------+
+| ETH/USDT   | $3,127.45  | BUY        | 78.3%      | 15m        | 3.45%      | 01:10:23         |
++------------+------------+------------+------------+------------+------------+-------------------+
+| SOL/USDT   | $128.67    | HOLD       | 62.1%      | 4h         | 4.82%      | 01:10:24         |
++------------+------------+------------+------------+------------+------------+-------------------+
+| DOGE/USDT  | $0.1432    | SELL       | 82.5%      | 30m        | 5.67%      | 01:10:25         |
++------------+------------+------------+------------+------------+------------+-------------------+
+```
+
+## 🔄 Fitur Tambahan
+
+- **Penyimpanan Konfigurasi**: Aset yang dipantau dan interval refresh disimpan antar sesi
+- **Pemantauan Multi-Timeframe**: Pantau aset yang sama di berbagai timeframe sekaligus
+- **Peringkat Keputusan**: Keputusan trading diurutkan berdasarkan keyakinan tertinggi
+- **User Interface yang Lebih Baik**: Menu terstruktur dengan navigasi yang jelas
+
+## 📡 Sumber Data
+
+Program ini menggunakan CoinGecko API untuk mendapatkan data cryptocurrency, mengatasi masalah SSL/API yang umum terjadi pada API lain.
+
+## ⚠️ Disclaimer
+
+- Ini adalah alat analisis teknikal, bukan rekomendasi trading
+- Selalu gunakan manajemen risiko yang baik
+- Past performance tidak menjamin hasil di masa depan
+- DYOR (Do Your Own Research)
+
+## 📄 Lisensi
+
+MIT License - lihat file [LICENSE](LICENSE) untuk detail
+
+## 🤝 Kontribusi
+
+Kontribusi selalu diterima! Feel free untuk membuat pull request atau melaporkan issues.
+
+## 👨‍💻 Developer
+
+**Eddy Adha Saputra**
+
+[![GitHub](https://img.shields.io/badge/GitHub-eddyyucca-black?style=flat&logo=github)](https://github.com/eddyyucca)
+[![Email](https://img.shields.io/badge/Email-eddyyucca%40gmail.com-red?style=flat&logo=gmail)](mailto:eddyyucca@gmail.com)
+[![Ko-Fi](https://img.shields.io/badge/Support%20Me%20on%20Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/eddyyucca)
 
 ---
-⭐️ From [eddyyucca](https://github.com/eddyyucca)
+
+<p align="center">
+  <a href="https://ko-fi.com/eddyyucca">
+    <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" alt="Buy Me A Coffee at ko-fi.com" height="45">
+  </a>
+</p>
+
+Made with ❤️ in Indonesia

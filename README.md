@@ -151,11 +151,11 @@ A passionate Full Stack Developer from Banjarmasin, Indonesia, with extensive ex
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
----
 <p align="center">
   <a href="https://ko-fi.com/eddyyucca">
     <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" alt="Buy Me A Coffee at ko-fi.com" height="45">
   </a>
 </p>
+
 ---
 ⭐️ From [Eddy Adha Saputra](https://github.com/eddyyucca)

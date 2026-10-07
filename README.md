@@ -1,7 +1,7 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Eddy Adha Saputra
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2C974B&background=FF000000&center=true&vCenter=true&width=435&lines=Fullstack+Developer+%F0%9F%92%BB;Mobile+Developer+%F0%9F%93%B1;IT+Operations+Specialist+%F0%9F%94%A7;Scrum+Master+%F0%9F%8F%83" alt="Typing SVG" />
+  <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2C974B&background=FF000000&center=true&vCenter=true&width=435&lines=Fullstack+Developer+%F0%9F%92%BB;Mobile+Developer+%F0%9F%93%B1;IT+Operations+Specialist+%F0%9F%94%A7;Scrum+Master+%F0%9F%8F%83" alt="Typing SVG" /> -->
   
   <br>
   
